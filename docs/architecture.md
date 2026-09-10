@@ -35,3 +35,7 @@ and authorize requests.
 NestJS provides a scalable backend structure. Redis reduces
 repeated database requests, while the AI microservice can be
 scaled independently.
+
+## Architecture Diagram
+
+![FitFlow System Architecture](architecture-diagram.png)
